@@ -109,10 +109,10 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 export const DEFAULT_DEPENDENCIES: SnackDependencies = {
   'react-native-paper': {
-    version: '4.9.2',
+    version: '4.12.0',
     // The handle ensures that the dependency doesn't need to be resolved
     // on startup
-    handle: 'snackager-1/react-native-paper@4.9.2',
+    handle: 'snackager-1/react-native-paper@4.12.0',
   },
   '@expo/vector-icons': {
     version: '*',
